@@ -8,5 +8,7 @@ trinitycore 335
 
 
 resource:
+```
 https://www.trinitycore.org/
 https://github.com/TrinityCore/TrinityCore
+```
